@@ -1,6 +1,6 @@
-## 🛒Shopee Cart Node.js
+# 🛒Shopee Cart Node.js
 
-Entendendo o projeto
+## Entendendo o projeto
 Este projeto foi baseado no carrinho de compras da shopee utilizando Javascript e Node.js. O foco é usar as principais funções de um carrinho e-commerce como adicionar itens ao carrinho, deletar, remover quantidades e calcular total itens no carrinho.
 
 ## 🛠️ Tecnologias Utilizadas
